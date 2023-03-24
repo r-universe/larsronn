@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CodataGS"]
+	path = CodataGS
+	url = https://github.com/cran/CodataGS
+	shallow = true
+	registered = true
